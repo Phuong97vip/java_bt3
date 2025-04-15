@@ -1,6 +1,6 @@
 import java.io.*;
-import java.time.LocalDate;
 import java.util.*;
+import java.util.stream.Collectors;
 import javax.xml.parsers.*;
 import javax.xml.transform.*;
 import javax.xml.transform.dom.*;
@@ -16,8 +16,6 @@ public class Dictionary {
         this.xmlFilePath = xmlFilePath;
         loadFromXML();
     }
-    
-    
     
     private void loadFromXML() {
         try {
@@ -45,13 +43,13 @@ public class Dictionary {
                     // Load access count if available
                     Node accessCountNode = element.getElementsByTagName("accessCount").item(0);
                     if (accessCountNode != null) {
-                        entry.setAccessCount(Integer.parseInt(accessCountNode.getTextContent()));
+                        entry.incrementAccessCount();
                     }
                     
                     // Load last accessed date if available
                     Node lastAccessedNode = element.getElementsByTagName("lastAccessed").item(0);
                     if (lastAccessedNode != null) {
-                        entry.setLastAccessed(LocalDate.parse(lastAccessedNode.getTextContent()));
+                        entry.setLastAccessed(new Date(lastAccessedNode.getTextContent()));
                     }
                     
                     entries.put(word.toLowerCase(), entry);
@@ -111,8 +109,8 @@ public class Dictionary {
     public String lookup(String word) {
         DictionaryEntry entry = entries.get(word.toLowerCase());
         if (entry != null) {
-            entry.setAccessCount(entry.getAccessCount() + 1);
-            entry.setLastAccessed(LocalDate.now());
+            entry.incrementAccessCount();
+            entry.setLastAccessed(new Date());
             saveToXML();
             return entry.getMeaning();
         }
@@ -137,16 +135,15 @@ public class Dictionary {
         return true;
     }
     
-    public List<DictionaryEntry> getWordStats(LocalDate fromDate, LocalDate toDate) {
-        List<DictionaryEntry> result = new ArrayList<>();
-        for (DictionaryEntry entry : entries.values()) {
-            if (entry.getLastAccessed() != null && 
-                !entry.getLastAccessed().isBefore(fromDate) && 
-                !entry.getLastAccessed().isAfter(toDate)) {
-                result.add(entry);
-            }
-        }
-        return result;
+    public List<DictionaryEntry> getWordStats(Date fromDate, Date toDate) {
+        return entries.values().stream()
+            .filter(entry -> {
+                Date lastAccessed = entry.getLastAccessed();
+                return lastAccessed != null && 
+                       lastAccessed.after(fromDate) && 
+                       lastAccessed.before(toDate);
+            })
+            .collect(Collectors.toList());
     }
     
     public List<String> getAllWords() {

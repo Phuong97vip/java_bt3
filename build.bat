@@ -1,23 +1,23 @@
 @echo off
-echo Building Simple Dictionary Application...
+echo Building Dictionary Application...
 
-:: Create necessary directories
+:: Create directories if they don't exist
 if not exist "bin" mkdir bin
-if not exist "bin\data" mkdir bin\data
+if not exist "release" mkdir release
 
-:: Compile all Java files
-javac -d bin src\*.java
+:: Compile Java file with XML library
+javac -cp ".;Libs/*" -d bin Source/*.java
 
-:: Copy data files
-copy /Y data\*.xml bin\data\
-copy /Y data\*.txt bin\data\
+:: Create manifest file
+echo Manifest-Version: 1.0 > manifest.txt
+echo Main-Class: DictionaryApp >> manifest.txt
+echo Class-Path: Libs/* >> manifest.txt
+
+:: Create JAR file
+jar cfm release/dict.jar manifest.txt -C bin .
+
+:: Copy data files to release directory
+copy data\*.xml release\
 
 echo Build completed successfully!
-echo.
-echo Running the application...
-echo.
-
-:: Run the application
-java -cp bin Main
-
-pause 
+echo You can run the application using: java -jar release/dict.jar 

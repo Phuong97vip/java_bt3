@@ -1,2 +1,203 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<dictionary/>
+<dictionary>
+    <entry>
+        <word>hello</word>
+        <meaning>xin chào</meaning>
+    </entry>
+    <entry>
+        <word>goodbye</word>
+        <meaning>tạm biệt</meaning>
+    </entry>
+    <entry>
+        <word>love</word>
+        <meaning>yêu thương</meaning>
+    </entry>
+    <entry>
+        <word>happy</word>
+        <meaning>hạnh phúc</meaning>
+    </entry>
+    <entry>
+        <word>sad</word>
+        <meaning>buồn</meaning>
+    </entry>
+    <entry>
+        <word>book</word>
+        <meaning>sách</meaning>
+    </entry>
+    <entry>
+        <word>computer</word>
+        <meaning>máy tính</meaning>
+    </entry>
+    <entry>
+        <word>phone</word>
+        <meaning>điện thoại</meaning>
+    </entry>
+    <entry>
+        <word>water</word>
+        <meaning>nước</meaning>
+    </entry>
+    <entry>
+        <word>food</word>
+        <meaning>thức ăn</meaning>
+    </entry>
+    <entry>
+        <word>friend</word>
+        <meaning>bạn bè</meaning>
+    </entry>
+    <entry>
+        <word>family</word>
+        <meaning>gia đình</meaning>
+    </entry>
+    <entry>
+        <word>school</word>
+        <meaning>trường học</meaning>
+    </entry>
+    <entry>
+        <word>teacher</word>
+        <meaning>giáo viên</meaning>
+    </entry>
+    <entry>
+        <word>student</word>
+        <meaning>học sinh</meaning>
+    </entry>
+    <entry>
+        <word>house</word>
+        <meaning>nhà</meaning>
+    </entry>
+    <entry>
+        <word>car</word>
+        <meaning>xe hơi</meaning>
+    </entry>
+    <entry>
+        <word>bike</word>
+        <meaning>xe đạp</meaning>
+    </entry>
+    <entry>
+        <word>tree</word>
+        <meaning>cây</meaning>
+    </entry>
+    <entry>
+        <word>flower</word>
+        <meaning>hoa</meaning>
+    </entry>
+    <entry>
+        <word>sun</word>
+        <meaning>mặt trời</meaning>
+    </entry>
+    <entry>
+        <word>moon</word>
+        <meaning>mặt trăng</meaning>
+    </entry>
+    <entry>
+        <word>star</word>
+        <meaning>ngôi sao</meaning>
+    </entry>
+    <entry>
+        <word>sky</word>
+        <meaning>bầu trời</meaning>
+    </entry>
+    <entry>
+        <word>cloud</word>
+        <meaning>mây</meaning>
+    </entry>
+    <entry>
+        <word>rain</word>
+        <meaning>mưa</meaning>
+    </entry>
+    <entry>
+        <word>snow</word>
+        <meaning>tuyết</meaning>
+    </entry>
+    <entry>
+        <word>wind</word>
+        <meaning>gió</meaning>
+    </entry>
+    <entry>
+        <word>time</word>
+        <meaning>thời gian</meaning>
+    </entry>
+    <entry>
+        <word>day</word>
+        <meaning>ngày</meaning>
+    </entry>
+    <entry>
+        <word>night</word>
+        <meaning>đêm</meaning>
+    </entry>
+    <entry>
+        <word>morning</word>
+        <meaning>buổi sáng</meaning>
+    </entry>
+    <entry>
+        <word>afternoon</word>
+        <meaning>buổi chiều</meaning>
+    </entry>
+    <entry>
+        <word>evening</word>
+        <meaning>buổi tối</meaning>
+    </entry>
+    <entry>
+        <word>year</word>
+        <meaning>năm</meaning>
+    </entry>
+    <entry>
+        <word>month</word>
+        <meaning>tháng</meaning>
+    </entry>
+    <entry>
+        <word>week</word>
+        <meaning>tuần</meaning>
+    </entry>
+    <entry>
+        <word>hour</word>
+        <meaning>giờ</meaning>
+    </entry>
+    <entry>
+        <word>minute</word>
+        <meaning>phút</meaning>
+    </entry>
+    <entry>
+        <word>second</word>
+        <meaning>giây</meaning>
+    </entry>
+    <entry>
+        <word>color</word>
+        <meaning>màu sắc</meaning>
+    </entry>
+    <entry>
+        <word>red</word>
+        <meaning>màu đỏ</meaning>
+    </entry>
+    <entry>
+        <word>blue</word>
+        <meaning>màu xanh dương</meaning>
+    </entry>
+    <entry>
+        <word>green</word>
+        <meaning>màu xanh lá</meaning>
+    </entry>
+    <entry>
+        <word>yellow</word>
+        <meaning>màu vàng</meaning>
+    </entry>
+    <entry>
+        <word>white</word>
+        <meaning>màu trắng</meaning>
+    </entry>
+    <entry>
+        <word>black</word>
+        <meaning>màu đen</meaning>
+    </entry>
+    <entry>
+        <word>music</word>
+        <meaning>âm nhạc</meaning>
+    </entry>
+    <entry>
+        <word>song</word>
+        <meaning>bài hát</meaning>
+    </entry>
+    <entry>
+        <word>dance</word>
+        <meaning>nhảy múa</meaning>
+    </entry>
+</dictionary>

@@ -2,58 +2,56 @@ THÔNG TIN SINH VIÊN
 ------------------
 Họ và tên: TRẦN VĂN PHƯƠNG
 MSSV: 21120534
-Lớp: [Tên lớp của bạn]
 Khoa: KỸ THUẬT PHẦN MỀM
+Trường: ĐẠI HỌC SƯ PHẠM KỸ THUẬT TP.HCM
 Email: 21120534@student.hcmus.edu.vn
 SDT: 0399784975
 
-HƯỚNG DẪN BIÊN DỊCH VÀ CHẠY ỨNG DỤNG
-------------------------------------
+HƯỚNG DẪN BIÊN DỊCH VÀ CHẠY CHƯƠNG TRÌNH
+----------------------------------------
 
 1. Yêu cầu hệ thống:
-   - Java Development Kit (JDK) phiên bản 8 trở lên
-   - Hệ điều hành Windows
+   - Java Development Kit (JDK) 8 trở lên
+   - Windows 10/11 hoặc Linux/MacOS
 
 2. Cấu trúc thư mục:
-   /src
-      Main.java    - Mã nguồn chính của ứng dụng
-   /data
-      anh_viet.xml               - Từ điển Anh-Việt
-      viet_anh.xml               - Từ điển Việt-Anh
-   /bin
-      /data
-         anh_viet.xml           - Bản sao của từ điển Anh-Việt
-         viet_anh.xml           - Bản sao của từ điển Việt-Anh
-   build.bat                     - Script biên dịch
-   README.txt                    - File hướng dẫn này
+   - Source/: Chứa mã nguồn chương trình
+   - Release/: Chứa file thực thi và dữ liệu
+   - Libs/: Chứa các thư viện cần thiết
 
-3. Các bước biên dịch và chạy:
+3. Cách biên dịch và chạy chương trình:
 
-   Cách 1: Sử dụng build.bat (Khuyến nghị)
-   ----------------------------------------
-   - Mở Command Prompt (cmd)
-   - Di chuyển đến thư mục chứa ứng dụng: cd đường_dẫn_đến_thư_mục
-   - Chạy lệnh: build.bat
-   - Script sẽ tự động biên dịch và chạy ứng dụng
+   a) Sử dụng Command Line:
+      - Mở Command Prompt hoặc PowerShell
+      - Di chuyển đến thư mục gốc của project
+      - Chạy lệnh: .\build.bat
+      - Chương trình sẽ tự động biên dịch và chạy
 
-   Cách 2: Biên dịch và chạy thủ công
-   ---------------------------------
-   - Mở Command Prompt (cmd)
-   - Di chuyển đến thư mục chứa ứng dụng: cd đường_dẫn_đến_thư_mục
-   - Biên dịch: javac -d bin src/Main.java
-   - Copy file XML: xcopy /Y data\*.xml bin\data\
-   - Chạy ứng dụng: java -cp bin src.Main
+   b) Sử dụng IDE:
+      - Mở project trong IDE (Eclipse, IntelliJ IDEA, VS Code)
+      - Tìm file Main.java trong thư mục Source
+      - Click chuột phải và chọn "Run Main.main()"
 
-   Cách 3: Chạy từ file JAR
-   ------------------------
-   - Mở Command Prompt (cmd)
-   - Di chuyển đến thư mục chứa file JAR: cd đường_dẫn_đến_thư_mục
-   - Chạy lệnh: java -jar DictionaryApp.jar
+   c) Dùng jar
+      click DictionaryApp.jar để chạy
 
-4. Sử dụng ứng dụng:
-   - Giao diện đồ họa sẽ hiển thị sau khi chạy thành công
-   - Sử dụng các nút và ô nhập liệu để tìm kiếm từ
-   - Chuyển đổi giữa từ điển Anh-Việt và Việt-Anh
+4. Các file dữ liệu:
+   - anh_viet.xml: Từ điển Anh-Việt
+   - viet_anh.xml: Từ điển Việt-Anh
+   - favorites.txt: Danh sách từ yêu thích
+
+5. Lưu ý:
+   - Đảm bảo các file dữ liệu đã được copy vào thư mục bin/data/
+   - Nếu có lỗi, kiểm tra console để xem thông báo lỗi
+   - Đảm bảo biến môi trường JAVA_HOME đã được cấu hình đúng
+
+6. Chức năng chính:
+   - Tra cứu từ điển Anh-Việt và Việt-Anh
+   - Thêm/xóa từ mới
+   - Quản lý từ yêu thích
+   - Xem thống kê tra cứu
+
+Liên hệ hỗ trợ: 21120534@student.hcmus.edu.vn
 
 LƯU Ý
 -----
@@ -70,3 +68,21 @@ LƯU Ý
   + Kiểm tra xem đã biên dịch thành công chưa
   + Kiểm tra đường dẫn classpath (-cp) có chính xác không
   + Thử xóa thư mục bin và biên dịch lại 
+
+
+
+Tự Chấm Điểm 
+  ----
+
+(1.0đ) Giao diện đồ hoạ hợp lý, đúng yêu cầu.
+(0.5đ) Chuyển đổi ngôn ngữ tra cứu.
+(2.0đ)Tra cứu từ và hiển thị nghĩa của từ.
+(2.0đ) Thêm từ mới (cùng với nghĩa) vào từ điển đã chọn.
+(0.5đ) Xóa một từ (cùng với nghĩa) ra khỏi từ điển đã chọn.
+(2.0đ) Lưu lại từ yêu thích. Sắp xếp danh sách từ yêu thích theo thứ
+tự A-Z hoặc Z-A.
+2.0đ) Thống kê tần suất tra cứu các từ đã tra từ ngày Date1 đến
+ngày Date2.
+
+Em thấy mình làm cũng rất cẩn thận hết yêu cầu
+nên em tự đánh giá 10 điểm ạ

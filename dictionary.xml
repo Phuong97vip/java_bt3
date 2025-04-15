@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<dictionary>
-    <word value="hello" meaning="Xin chào" language="EN-VI"/>
-    <word value="world" meaning="Thế giới" language="EN-VI"/>
-    <word value="computer" meaning="Máy tính" language="EN-VI"/>
-    <word value="Xin chào" meaning="hello" language="VI-EN"/>
-    <word value="Thế giới" meaning="world" language="VI-EN"/>
-    <word value="Máy tính" meaning="computer" language="VI-EN"/>
-</dictionary> 

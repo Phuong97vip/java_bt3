@@ -1,2 +1,203 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<dictionary/>
+<dictionary>
+    <entry>
+        <word>con mèo</word>
+        <meaning>cat</meaning>
+    </entry>
+    <entry>
+        <word>con chó</word>
+        <meaning>dog</meaning>
+    </entry>
+    <entry>
+        <word>con chim</word>
+        <meaning>bird</meaning>
+    </entry>
+    <entry>
+        <word>con cá</word>
+        <meaning>fish</meaning>
+    </entry>
+    <entry>
+        <word>con rùa</word>
+        <meaning>turtle</meaning>
+    </entry>
+    <entry>
+        <word>quả táo</word>
+        <meaning>apple</meaning>
+    </entry>
+    <entry>
+        <word>quả cam</word>
+        <meaning>orange</meaning>
+    </entry>
+    <entry>
+        <word>quả chuối</word>
+        <meaning>banana</meaning>
+    </entry>
+    <entry>
+        <word>quả dâu</word>
+        <meaning>strawberry</meaning>
+    </entry>
+    <entry>
+        <word>quả nho</word>
+        <meaning>grape</meaning>
+    </entry>
+    <entry>
+        <word>cái bàn</word>
+        <meaning>table</meaning>
+    </entry>
+    <entry>
+        <word>cái ghế</word>
+        <meaning>chair</meaning>
+    </entry>
+    <entry>
+        <word>cái giường</word>
+        <meaning>bed</meaning>
+    </entry>
+    <entry>
+        <word>cái tủ</word>
+        <meaning>cabinet</meaning>
+    </entry>
+    <entry>
+        <word>cái đèn</word>
+        <meaning>lamp</meaning>
+    </entry>
+    <entry>
+        <word>bếp</word>
+        <meaning>kitchen</meaning>
+    </entry>
+    <entry>
+        <word>phòng khách</word>
+        <meaning>living room</meaning>
+    </entry>
+    <entry>
+        <word>phòng ngủ</word>
+        <meaning>bedroom</meaning>
+    </entry>
+    <entry>
+        <word>phòng tắm</word>
+        <meaning>bathroom</meaning>
+    </entry>
+    <entry>
+        <word>sân vườn</word>
+        <meaning>garden</meaning>
+    </entry>
+    <entry>
+        <word>bác sĩ</word>
+        <meaning>doctor</meaning>
+    </entry>
+    <entry>
+        <word>y tá</word>
+        <meaning>nurse</meaning>
+    </entry>
+    <entry>
+        <word>kỹ sư</word>
+        <meaning>engineer</meaning>
+    </entry>
+    <entry>
+        <word>đầu bếp</word>
+        <meaning>chef</meaning>
+    </entry>
+    <entry>
+        <word>nghệ sĩ</word>
+        <meaning>artist</meaning>
+    </entry>
+    <entry>
+        <word>áo sơ mi</word>
+        <meaning>shirt</meaning>
+    </entry>
+    <entry>
+        <word>quần jean</word>
+        <meaning>jeans</meaning>
+    </entry>
+    <entry>
+        <word>váy</word>
+        <meaning>dress</meaning>
+    </entry>
+    <entry>
+        <word>giày</word>
+        <meaning>shoes</meaning>
+    </entry>
+    <entry>
+        <word>dép</word>
+        <meaning>sandals</meaning>
+    </entry>
+    <entry>
+        <word>bóng đá</word>
+        <meaning>football</meaning>
+    </entry>
+    <entry>
+        <word>bóng rổ</word>
+        <meaning>basketball</meaning>
+    </entry>
+    <entry>
+        <word>bóng chuyền</word>
+        <meaning>volleyball</meaning>
+    </entry>
+    <entry>
+        <word>cầu lông</word>
+        <meaning>badminton</meaning>
+    </entry>
+    <entry>
+        <word>bơi lội</word>
+        <meaning>swimming</meaning>
+    </entry>
+    <entry>
+        <word>bánh mì</word>
+        <meaning>bread</meaning>
+    </entry>
+    <entry>
+        <word>cơm</word>
+        <meaning>rice</meaning>
+    </entry>
+    <entry>
+        <word>phở</word>
+        <meaning>pho</meaning>
+    </entry>
+    <entry>
+        <word>bún</word>
+        <meaning>noodles</meaning>
+    </entry>
+    <entry>
+        <word>cà phê</word>
+        <meaning>coffee</meaning>
+    </entry>
+    <entry>
+        <word>trà</word>
+        <meaning>tea</meaning>
+    </entry>
+    <entry>
+        <word>sữa</word>
+        <meaning>milk</meaning>
+    </entry>
+    <entry>
+        <word>bia</word>
+        <meaning>beer</meaning>
+    </entry>
+    <entry>
+        <word>rượu</word>
+        <meaning>wine</meaning>
+    </entry>
+    <entry>
+        <word>nước ngọt</word>
+        <meaning>soft drink</meaning>
+    </entry>
+    <entry>
+        <word>bệnh viện</word>
+        <meaning>hospital</meaning>
+    </entry>
+    <entry>
+        <word>nhà hàng</word>
+        <meaning>restaurant</meaning>
+    </entry>
+    <entry>
+        <word>siêu thị</word>
+        <meaning>supermarket</meaning>
+    </entry>
+    <entry>
+        <word>công viên</word>
+        <meaning>park</meaning>
+    </entry>
+    <entry>
+        <word>bãi biển</word>
+        <meaning>beach</meaning>
+    </entry>
+</dictionary>

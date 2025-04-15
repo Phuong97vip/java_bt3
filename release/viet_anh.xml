@@ -1,367 +1,203 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dictionary>
     <entry>
-        <word>yêu</word>
-        <meaning>love</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>con mèo</word>
+        <meaning>cat</meaning>
     </entry>
     <entry>
-        <word>xin chào</word>
-        <meaning>hello</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>con chó</word>
+        <meaning>dog</meaning>
     </entry>
     <entry>
-        <word>thế giới</word>
-        <meaning>world</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>con chim</word>
+        <meaning>bird</meaning>
     </entry>
     <entry>
-        <word>máy tính</word>
-        <meaning>computer</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>con cá</word>
+        <meaning>fish</meaning>
     </entry>
     <entry>
-        <word>sách</word>
-        <meaning>book</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>con rùa</word>
+        <meaning>turtle</meaning>
     </entry>
     <entry>
-        <word>học sinh</word>
-        <meaning>student</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>quả táo</word>
+        <meaning>apple</meaning>
     </entry>
     <entry>
-        <word>giáo viên</word>
-        <meaning>teacher</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>quả cam</word>
+        <meaning>orange</meaning>
     </entry>
     <entry>
-        <word>trường học</word>
-        <meaning>school</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>quả chuối</word>
+        <meaning>banana</meaning>
     </entry>
     <entry>
-        <word>bạn bè</word>
-        <meaning>friend</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>quả dâu</word>
+        <meaning>strawberry</meaning>
     </entry>
     <entry>
-        <word>gia đình</word>
-        <meaning>family</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>quả nho</word>
+        <meaning>grape</meaning>
     </entry>
     <entry>
-        <word>nhà</word>
-        <meaning>house</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>cái bàn</word>
+        <meaning>table</meaning>
     </entry>
     <entry>
-        <word>xe hơi</word>
-        <meaning>car</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>cái ghế</word>
+        <meaning>chair</meaning>
     </entry>
     <entry>
-        <word>điện thoại</word>
-        <meaning>phone</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>cái giường</word>
+        <meaning>bed</meaning>
     </entry>
     <entry>
-        <word>thời gian</word>
-        <meaning>time</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>cái tủ</word>
+        <meaning>cabinet</meaning>
     </entry>
     <entry>
-        <word>ngày</word>
-        <meaning>day</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>cái đèn</word>
+        <meaning>lamp</meaning>
     </entry>
     <entry>
-        <word>đêm</word>
-        <meaning>night</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>bếp</word>
+        <meaning>kitchen</meaning>
     </entry>
     <entry>
-        <word>nước</word>
-        <meaning>water</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>phòng khách</word>
+        <meaning>living room</meaning>
     </entry>
     <entry>
-        <word>thức ăn</word>
-        <meaning>food</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>phòng ngủ</word>
+        <meaning>bedroom</meaning>
     </entry>
     <entry>
-        <word>đồ uống</word>
-        <meaning>drink</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>phòng tắm</word>
+        <meaning>bathroom</meaning>
     </entry>
     <entry>
-        <word>ăn</word>
-        <meaning>eat</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>sân vườn</word>
+        <meaning>garden</meaning>
     </entry>
     <entry>
-        <word>ngủ</word>
-        <meaning>sleep</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>bác sĩ</word>
+        <meaning>doctor</meaning>
     </entry>
     <entry>
-        <word>đi bộ</word>
-        <meaning>walk</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>y tá</word>
+        <meaning>nurse</meaning>
     </entry>
     <entry>
-        <word>chạy</word>
-        <meaning>run</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>kỹ sư</word>
+        <meaning>engineer</meaning>
     </entry>
     <entry>
-        <word>làm việc</word>
-        <meaning>work</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>đầu bếp</word>
+        <meaning>chef</meaning>
     </entry>
     <entry>
-        <word>chơi</word>
-        <meaning>play</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>nghệ sĩ</word>
+        <meaning>artist</meaning>
     </entry>
     <entry>
-        <word>di chuyển</word>
-        <meaning>move</meaning>
-        <accessCount>4</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>áo sơ mi</word>
+        <meaning>shirt</meaning>
     </entry>
     <entry>
-        <word>thử</word>
-        <meaning>try</meaning>
-        <accessCount>4</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>quần jean</word>
+        <meaning>jeans</meaning>
     </entry>
     <entry>
-        <word>viết</word>
-        <meaning>write</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>váy</word>
+        <meaning>dress</meaning>
     </entry>
     <entry>
-        <word>nói</word>
-        <meaning>speak</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>giày</word>
+        <meaning>shoes</meaning>
     </entry>
     <entry>
-        <word>nghe</word>
-        <meaning>listen</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>dép</word>
+        <meaning>sandals</meaning>
     </entry>
     <entry>
-        <word>hiểu</word>
-        <meaning>understand</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>bóng đá</word>
+        <meaning>football</meaning>
     </entry>
     <entry>
-        <word>học</word>
-        <meaning>learn</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>bóng rổ</word>
+        <meaning>basketball</meaning>
     </entry>
     <entry>
-        <word>dạy</word>
-        <meaning>teach</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>bóng chuyền</word>
+        <meaning>volleyball</meaning>
     </entry>
     <entry>
-        <word>học tập</word>
-        <meaning>study</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>cầu lông</word>
+        <meaning>badminton</meaning>
     </entry>
     <entry>
-        <word>suy nghĩ</word>
-        <meaning>think</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>bơi lội</word>
+        <meaning>swimming</meaning>
     </entry>
     <entry>
-        <word>biết</word>
-        <meaning>know</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>bánh mì</word>
+        <meaning>bread</meaning>
     </entry>
     <entry>
-        <word>nhớ</word>
-        <meaning>remember</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>cơm</word>
+        <meaning>rice</meaning>
     </entry>
     <entry>
-        <word>quên</word>
-        <meaning>forget</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>phở</word>
+        <meaning>pho</meaning>
     </entry>
     <entry>
-        <word>nhìn thấy</word>
-        <meaning>see</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>bún</word>
+        <meaning>noodles</meaning>
     </entry>
     <entry>
-        <word>nhìn</word>
-        <meaning>look</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>cà phê</word>
+        <meaning>coffee</meaning>
     </entry>
     <entry>
-        <word>xem</word>
-        <meaning>watch</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>trà</word>
+        <meaning>tea</meaning>
     </entry>
     <entry>
-        <word>nghe thấy</word>
-        <meaning>hear</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>sữa</word>
+        <meaning>milk</meaning>
     </entry>
     <entry>
-        <word>cảm thấy</word>
-        <meaning>feel</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>bia</word>
+        <meaning>beer</meaning>
     </entry>
     <entry>
-        <word>chạm</word>
-        <meaning>touch</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>rượu</word>
+        <meaning>wine</meaning>
     </entry>
     <entry>
-        <word>ngửi</word>
-        <meaning>smell</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>nước ngọt</word>
+        <meaning>soft drink</meaning>
     </entry>
     <entry>
-        <word>nếm</word>
-        <meaning>taste</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>bệnh viện</word>
+        <meaning>hospital</meaning>
     </entry>
     <entry>
-        <word>thích</word>
-        <meaning>like</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>nhà hàng</word>
+        <meaning>restaurant</meaning>
     </entry>
     <entry>
-        <word>ghét</word>
-        <meaning>hate</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>siêu thị</word>
+        <meaning>supermarket</meaning>
     </entry>
     <entry>
-        <word>muốn</word>
-        <meaning>want</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
+        <word>công viên</word>
+        <meaning>park</meaning>
     </entry>
     <entry>
-        <word>cần</word>
-        <meaning>need</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
-    </entry>
-    <entry>
-        <word>có</word>
-        <meaning>have</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
-    </entry>
-    <entry>
-        <word>lấy</word>
-        <meaning>get</meaning>
-        <accessCount>0</accessCount>
-        <lastAccessed>2025-04-15</lastAccessed>
-    </entry>
-    <entry>
-        <word>cảm ơn</word>
-        <meaning>thank you</meaning>
-    </entry>
-    <entry>
-        <word>tạm biệt</word>
-        <meaning>goodbye</meaning>
-    </entry>
-    <entry>
-        <word>xin lỗi</word>
-        <meaning>sorry</meaning>
-    </entry>
-    <entry>
-        <word>vui vẻ</word>
-        <meaning>happy</meaning>
-    </entry>
-    <entry>
-        <word>buồn</word>
-        <meaning>sad</meaning>
-    </entry>
-    <entry>
-        <word>đẹp</word>
-        <meaning>beautiful</meaning>
-    </entry>
-    <entry>
-        <word>xấu</word>
-        <meaning>ugly</meaning>
-    </entry>
-    <entry>
-        <word>nóng</word>
-        <meaning>hot</meaning>
-    </entry>
-    <entry>
-        <word>lạnh</word>
-        <meaning>cold</meaning>
-    </entry>
-    <entry>
-        <word>lớn</word>
-        <meaning>big</meaning>
-    </entry>
-    <entry>
-        <word>nhỏ</word>
-        <meaning>small</meaning>
-    </entry>
-    <entry>
-        <word>cao</word>
-        <meaning>tall</meaning>
-    </entry>
-    <entry>
-        <word>thấp</word>
-        <meaning>short</meaning>
+        <word>bãi biển</word>
+        <meaning>beach</meaning>
     </entry>
 </dictionary>
